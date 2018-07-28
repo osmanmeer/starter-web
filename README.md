@@ -15,3 +15,6 @@ Some detail on how to contribute
 ## Release
 
 Sample website with plenty of files for demos
+
+### Copyright
+2018 copyright
