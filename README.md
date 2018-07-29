@@ -10,6 +10,7 @@ Some purpose
 
 ## How to contribute
 Some detail on how to contribute
+Please fork this repository.
 
 ## Deployment
 ## Release
