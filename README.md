@@ -19,4 +19,4 @@ Please fork this repository.
 Sample website with plenty of files for demos
 
 ### Copyright
-2018 copyright
+2018 copyright. All rights reserved.
